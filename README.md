@@ -1,2 +1,2 @@
 # recommendation-model
-This repo contains the code for creating the apps recommentation model
+Contains code for creating the app's recommentation model
